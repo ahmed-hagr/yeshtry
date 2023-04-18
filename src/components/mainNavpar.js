@@ -66,7 +66,7 @@ export default (props) => {
 
             </Offcanvas.Body>
           </Navbar.Offcanvas>
-          <Navbar.Brand className='ms-1' href="#">
+          <Navbar.Brand className='ms-1' href="/">
             <img className='logo' src='	https://www.yeshtery.com/files/69/brand-logo-yellow.svg' />
           </Navbar.Brand>
 
